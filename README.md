@@ -1,7 +1,7 @@
 # Scramble-Game
 This Is My First Repository,
 <br>
-Author:-Khushbunaz Dalal
+Author:-KHUSHBUNAZ DALAL
 <html>
     <head>
         <tittle></tittle>
